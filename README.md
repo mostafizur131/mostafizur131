@@ -1,41 +1,29 @@
-<!-- =========================
-     GitHub Profile README
-     Mostafizur Rahman
-     ========================= -->
+<!-- GitHub Profile README — Mostafizur Rahman -->
 
-<!-- Banner -->
 <p align="center">
-  <img
-    src="./assets/github-banner.png"
-    alt="Mostafizur Rahman - Full-Stack Web Developer"
-    width="100%"
-  />
+  <img src="./assets/Banner.jfif" alt="Mostafizur Rahman — Aspiring Full-Stack Web Developer" width="100%" />
 </p>
 
-<!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Mostafizur Rahman</h1>
-
-<h3 align="center">
-  Aspiring Full-Stack Web Developer | React • Next.js • TypeScript
-</h3>
+<h3 align="center">Aspiring Full-Stack Web Developer | React • Next.js • TypeScript • Node.js</h3>
 
 <p align="center">
-  <a href="https://github.com/mostafizur131">
-    <img src="https://komarev.com/ghpvc/?username=mostafizur131&label=Profile%20Views&color=1D4ED8&style=flat" alt="Profile Views" />
-  </a>
+  <a href="https://github.com/mostafizur131"><img src="https://komarev.com/ghpvc/?username=mostafizur131&label=Profile%20Views&color=1D4ED8&style=flat" alt="Profile views" /></a>
+  <a href="https://github.com/mostafizur131?tab=followers"><img src="https://img.shields.io/github/followers/mostafizur131?label=Followers&style=flat&color=1D4ED8" alt="GitHub followers" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Mostafizur Rahman**, a web development learner from **Dhaka, Bangladesh**, focused on becoming a skilled full-stack web developer.
+I'm **Mostafizur Rahman**, a web development learner from **Dhaka, Bangladesh**, working toward becoming a capable full-stack web developer.
 
-I enjoy learning by building real-world projects and turning ideas into clean, responsive, and user-friendly web applications.
+I learn by building practical projects and turning ideas into responsive, user-friendly web applications. My learning journey covers frontend development, backend development, databases, authentication, API integration, payment integration, and AI-assisted development tools.
 
-I'm currently strengthening my skills in **React, Next.js, TypeScript, Node.js, Express.js, MongoDB, REST APIs, and modern frontend development**.
-
-I believe in learning consistently, building practical projects, and improving one step at a time.
+- 🌱 Strengthening my skills in **Next.js, TypeScript, backend development, and testing**
+- 🧩 Practicing application architecture, authentication, and role-based access control
+- 🤖 Exploring AI integration and AI-assisted coding
+- 🎯 Applying what I learn through practical projects
 
 ---
 
@@ -51,115 +39,85 @@ I believe in learning consistently, building practical projects, and improving o
 
 ---
 
-## 🛠️ Skills & Technologies
+I've worked through the topics below as part of my web development journey. I'm continuing to reinforce them through practice and projects.
+
+### Foundations & Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Mindset%20Development-222222?style=flat-square" alt="AI Mindset Development" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript%20Basics-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript basics" />
+  <img src="https://img.shields.io/badge/ES6%20%26%20Problem%20Solving-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="ES6 and problem solving" />
+  <img src="https://img.shields.io/badge/TypeScript%20%26%20OOP-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript and OOP" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/DOM%20%26%20BOM-323330?style=flat-square&logo=javascript&logoColor=white" alt="DOM and BOM" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Hero%20UI-111827?style=flat-square" alt="Hero UI" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-111827?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+</p>
+
+### Backend, Database & Application Architecture
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/Modular%20Pattern-475569?style=flat-square" alt="Modular pattern" />
+  <img src="https://img.shields.io/badge/API%20Integration-2563EB?style=flat-square" alt="API integration" />
+  <img src="https://img.shields.io/badge/Better%20Auth-111827?style=flat-square" alt="Better Auth" />
+  <img src="https://img.shields.io/badge/Role--Based%20Access%20Control-7C3AED?style=flat-square" alt="Role-based access control" />
+</p>
+
+### Payments, AI & Quality
+
+<p>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/SSLCommerz-008C8C?style=flat-square" alt="SSLCommerz" />
+  <img src="https://img.shields.io/badge/AI%20Integration-7C3AED?style=flat-square" alt="AI integration" />
+  <img src="https://img.shields.io/badge/AI--Assisted%20Coding-2563EB?style=flat-square" alt="AI-assisted coding" />
+  <img src="https://img.shields.io/badge/Introduction%20to%20Testing-16A34A?style=flat-square" alt="Introduction to testing" />
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,vite,git,github,figma&perline=8" alt="Skills and Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,vite,git,github,figma&perline=8" alt="Technology icons" />
 </p>
+
+---
 
 ---
 
 ## 💻 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏋️ Rahman FitLog</h3>
-      <p align="center">
-        <a href="https://github.com/mostafizur131/rahman-fitlog">
-          <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </p>
-      <p>
-        A workout library and planning application built with Next.js and TypeScript. Users can explore workouts, save exercises, create workout plans, and track completed workouts.
-      </p>
-      <p align="center">
-        <strong>Next.js • TypeScript • Tailwind CSS • DaisyUI</strong>
-      </p>
-    </td>
+| 🏋️ **Rahman FitLog**                                                                                                                                                                                   | 🏗️ **Architect**                                                                                                                                                                                      |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A workout library and planning application built with **Next.js and TypeScript**. Users can explore workouts, save exercises, create workout plans, and track completed workouts.                      | An architecture and interior design service platform featuring authentication, service management, reviews, routing, and database integration.                                                        |
+| **Tech:** Next.js · TypeScript · Tailwind CSS · DaisyUI                                                                                                                                                | **Tech:** React · Node.js · Express · MongoDB · Firebase                                                                                                                                              |
+| <a href="https://github.com/mostafizur131/rahman-fitlog"><img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Rahman FitLog" /></a> | <a href="https://github.com/mostafizur131/architect_client"><img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Architect" /></a> |
 
-    <td width="50%">
-      <h3 align="center">🏗️ Architect</h3>
-      <p align="center">
-        <a href="https://github.com/mostafizur131/architect_client">
-          <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </p>
-      <p>
-        An architecture and interior design service platform featuring authentication, service management, reviews, routing, and database integration.
-      </p>
-      <p align="center">
-        <strong>React • Node.js • Express • MongoDB • Firebase</strong>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏏 CricXI</h3>
-      <p align="center">
-        <a href="https://github.com/mostafizur131/CricXI">
-          <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </p>
-      <p>
-        A cricket player selection application demonstrating React state management, TypeScript, validation, player selection, and responsive UI development.
-      </p>
-      <p align="center">
-        <strong>React • TypeScript • Vite • Tailwind CSS • DaisyUI</strong>
-      </p>
-    </td>
-
-    <td width="50%">
-      <h3 align="center">🛍️ Influential</h3>
-      <p align="center">
-        <a href="https://github.com/mostafizur131/influential">
-          <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </p>
-      <p>
-        A responsive e-commerce interface with interactive product and shopping cart functionality using vanilla JavaScript.
-      </p>
-      <p align="center">
-        <strong>HTML • CSS • JavaScript • Bootstrap</strong>
-      </p>
-    </td>
-  </tr>
-</table>
+| 🏏 **CricXI**                                                                                                                                                                            | 🛍️ **Influential**                                                                                                                                                                                 |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A cricket player selection application demonstrating **React state management, TypeScript, validation, player selection, and responsive UI development**.                                | A responsive e-commerce interface with interactive product and shopping cart functionality using vanilla JavaScript.                                                                               |
+| **Tech:** React · TypeScript · Vite · Tailwind CSS · DaisyUI                                                                                                                             | **Tech:** HTML · CSS · JavaScript · Bootstrap                                                                                                                                                      |
+| <a href="https://github.com/mostafizur131/CricXI"><img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View CricXI" /></a> | <a href="https://github.com/mostafizur131/influential"><img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Influential" /></a> |
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mostafizur131&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent"
-    alt="Mostafizur's GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizur131&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-    alt="Mostafizur's Top Languages"
-    height="180"
-  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mostafizur131&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizur131&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=mostafizur131&hide_border=true&theme=transparent"
-    alt="Mostafizur's GitHub Streak"
-  />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mostafizur131&hide_border=true&area=true&radius=8"
-    alt="Mostafizur's Contribution Graph"
-  />
+  <img src="https://streak-stats.demolab.com?user=mostafizur131&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </p>
 
 ---
@@ -167,59 +125,16 @@ I believe in learning consistently, building practical projects, and improving o
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://mostafizurrahman.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/mostafizur131/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://www.facebook.com/mostafizur131/">
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-
-  <a href="https://x.com/mostafizur131">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-
-  <a href="mailto:mostafizur.webdesigner131@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://mostafizurrahman.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mostafizur131/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/mostafizur131/"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://x.com/mostafizur131"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:mostafizur.webdesigner131@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+<p align="center">📍 Dhaka, Bangladesh · ✉️ <a href="mailto:mostafizur.webdesigner131@gmail.com">mostafizur.webdesigner131@gmail.com</a></p>
 
 ---
 
-## 📫 Contact
-
-<p align="center">
-  <strong>Email:</strong>
-  <a href="mailto:mostafizur.webdesigner131@gmail.com">
-    mostafizur.webdesigner131@gmail.com
-  </a>
-</p>
-
-<p align="center">
-  <strong>Location:</strong> Dhaka, Bangladesh
-</p>
-
----
-
-## 🎯 My Development Journey
-
-```text
-HTML / CSS
-     ↓
-JavaScript
-     ↓
-React
-     ↓
-TypeScript
-     ↓
-Next.js
-     ↓
-Node.js + Express
-     ↓
-MongoDB + REST APIs
-     ↓
-Full-Stack Web Development
+<h3 align="center">🚀 Learn • Build • Test • Improve</h3>
+<p align="center"><i>Turning knowledge into practical projects, one step at a time.</i></p>
