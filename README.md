@@ -1,7 +1,9 @@
+<!-- GitHub Profile README — Mostafizur Rahman -->
+
 # Hi, I'm Mostafizur Rahman 👋
 
 <p align="center">
-  <img src="./assets/github-banner.png" alt="Mostafizur Rahman — Full-Stack Web Developer" width="100%" />
+  <img src="./assets/Banner.jfif" alt="Mostafizur Rahman — Full-Stack Web Developer" width="100%" />
 </p>
 
 <h1 align="center">Mostafizur Rahman</h1>
@@ -38,67 +40,52 @@ I've worked through most of the topics in my learning path and continue to stren
 
 I've worked through the topics below as part of my web development journey. I'm continuing to reinforce them through practice and projects.
 
-### 01. Web Development Foundations
+### Foundations & Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js&perline=8" alt="HTML CSS JavaScript" />
+<p>
+  <img src="https://img.shields.io/badge/AI%20Mindset%20Development-222222?style=flat-square" alt="AI Mindset Development" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript%20Basics-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript basics" />
+  <img src="https://img.shields.io/badge/ES6%20%26%20Problem%20Solving-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="ES6 and problem solving" />
+  <img src="https://img.shields.io/badge/TypeScript%20%26%20OOP-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript and OOP" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/DOM%20%26%20BOM-323330?style=flat-square&logo=javascript&logoColor=white" alt="DOM and BOM" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Hero%20UI-111827?style=flat-square" alt="Hero UI" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-111827?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
 </p>
 
-- HTML5
-- CSS3
-- JavaScript fundamentals
-- ES6 and problem solving
-- DOM vs. BOM
+### Backend, Database & Application Architecture
 
-### 02. Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&perline=8" alt="TypeScript React Next.js Tailwind CSS" />
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/Modular%20Pattern-475569?style=flat-square" alt="Modular pattern" />
+  <img src="https://img.shields.io/badge/API%20Integration-2563EB?style=flat-square" alt="API integration" />
+  <img src="https://img.shields.io/badge/Better%20Auth-111827?style=flat-square" alt="Better Auth" />
+  <img src="https://img.shields.io/badge/Role--Based%20Access%20Control-7C3AED?style=flat-square" alt="Role-based access control" />
 </p>
 
-- TypeScript basics and object-oriented programming (OOP)
-- React fundamentals
-- Next.js
-- Tailwind CSS
-- Hero UI
-- shadcn/ui
+### Payments, AI & Quality
 
-### 03. Backend Development and Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=8" alt="Node.js Express MongoDB" />
+<p>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/SSLCommerz-008C8C?style=flat-square" alt="SSLCommerz" />
+  <img src="https://img.shields.io/badge/AI%20Integration-7C3AED?style=flat-square" alt="AI integration" />
+  <img src="https://img.shields.io/badge/AI--Assisted%20Coding-2563EB?style=flat-square" alt="AI-assisted coding" />
+  <img src="https://img.shields.io/badge/Introduction%20to%20Testing-16A34A?style=flat-square" alt="Introduction to testing" />
 </p>
-
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- Modular pattern
-- API integration
-
-### 04. Authentication and Application Features
-
-- Better Auth
-- Role-based access control (RBAC)
-- Payment integration concepts
-- Stripe
-- SSLCommerz
-
-### 05. AI and Testing
-
-- AI Mindset Development
-- AI integration
-- AI-assisted coding
-- Introduction to testing
-
-_This roadmap reflects my learning progress. I'm continuing to practise these concepts and apply them in real projects._
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,figma&perline=7" alt="Technology skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,vite,git,github,figma&perline=8" alt="Technology icons" />
 </p>
 
 ---
